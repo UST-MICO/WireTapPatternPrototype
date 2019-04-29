@@ -1,0 +1,5 @@
+io\github\ustmico\wiretap\KafkaConsumerConfig.class
+io\github\ustmico\wiretap\KafkaProducer.class
+io\github\ustmico\wiretap\SpringKafkaApplication.class
+io\github\ustmico\wiretap\KafkaProducerConfig.class
+io\github\ustmico\wiretap\KafkaConsumer.class
